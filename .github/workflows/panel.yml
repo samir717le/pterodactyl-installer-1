@@ -1,4 +1,4 @@
-name: Test Panel Installer
+name: Test Panel Installer ci
 
 on:
   schedule:
